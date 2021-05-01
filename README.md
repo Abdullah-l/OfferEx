@@ -1,4 +1,4 @@
-# OfferEx
+# OfferEx - Senior Project
 
 [![OfferEx Demo](https://drive.google.com/uc?export=download&id=1N5q44i0T1PKAIJJ9qe8a-FxZKjnBMlbI)](https://youtu.be/vIEJwMNeA4k)
 
