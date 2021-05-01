@@ -1,0 +1,17 @@
+.ant-descriptions-item {
+    white-space: pre-line;
+    padding-bottom: 8px !important;
+    overflow: hidden;
+}
+.ant-descriptions-view {
+    border-radius: unset;
+}
+.leaflet-container {
+    width: 100%;
+    height: 400px;
+  }
+.rateBox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
